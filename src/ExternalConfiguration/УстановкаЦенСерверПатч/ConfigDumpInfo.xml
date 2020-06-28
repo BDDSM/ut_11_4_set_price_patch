@@ -2,7 +2,7 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
 	<ConfigVersions>
 		<Metadata name="CommonModule.УстановкаЦенСервер" id="6479d339-ec72-46d9-957b-5bb4b172d1fa" configVersion="f34c49e2ffeca8bea4d76c0750e581b1d5451b7e"/>
-		<Metadata name="CommonModule.УстановкаЦенСервер.Module" id="6479d339-ec72-46d9-957b-5bb4b172d1fa.0" configVersion="db53ef159d61a92fda9f3e0e4d256f7da8ae07ec"/>
+		<Metadata name="CommonModule.УстановкаЦенСервер.Module" id="6479d339-ec72-46d9-957b-5bb4b172d1fa.0" configVersion="b80330016328f60132e18f59a016bf4d08faa1e4"/>
 		<Metadata name="CommonModule.уст_ц_УстановкаЦенСервер" id="6b90bb98-20fa-427a-87f4-aec190cc18c4" configVersion="025cffe8a092befa164c25fe994e7fc875525158"/>
 		<Metadata name="CommonModule.уст_ц_УстановкаЦенСервер.Module" id="6b90bb98-20fa-427a-87f4-aec190cc18c4.0" configVersion="38ad2b1c5ef35c542974b553ee171d180690f028"/>
 		<Metadata name="Configuration.УстановкаЦенСерверПатч" id="54d77316-36f3-46ca-a62b-7be0fec068bf" configVersion="34eaa8b4b59be96ecebf7b73ec886f71576d19d8"/>
