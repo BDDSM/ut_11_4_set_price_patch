@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
+	<ConfigVersions>
+		<Metadata name="CommonModule.УстановкаЦенСервер" id="6479d339-ec72-46d9-957b-5bb4b172d1fa" configVersion="f34c49e2ffeca8bea4d76c0750e581b1d5451b7e"/>
+		<Metadata name="CommonModule.УстановкаЦенСервер.Module" id="6479d339-ec72-46d9-957b-5bb4b172d1fa.0" configVersion="db53ef159d61a92fda9f3e0e4d256f7da8ae07ec"/>
+		<Metadata name="CommonModule.уст_ц_УстановкаЦенСервер" id="6b90bb98-20fa-427a-87f4-aec190cc18c4" configVersion="025cffe8a092befa164c25fe994e7fc875525158"/>
+		<Metadata name="CommonModule.уст_ц_УстановкаЦенСервер.Module" id="6b90bb98-20fa-427a-87f4-aec190cc18c4.0" configVersion="38ad2b1c5ef35c542974b553ee171d180690f028"/>
+		<Metadata name="Configuration.УстановкаЦенСерверПатч" id="54d77316-36f3-46ca-a62b-7be0fec068bf" configVersion="34eaa8b4b59be96ecebf7b73ec886f71576d19d8"/>
+		<Metadata name="DataProcessor.уст_ц_ТестированиеПатча" id="94bf6673-2bbf-40dc-951a-7010349939e6" configVersion="758f24f754da5f9d73bb41948e2311c730455a6e"/>
+		<Metadata name="DataProcessor.уст_ц_ТестированиеПатча.Form.Форма" id="718f931c-4cdc-4485-8be8-e73a06821492" configVersion="296062b30b422eabbdb1ac18ebf754434f6479eb"/>
+		<Metadata name="DataProcessor.уст_ц_ТестированиеПатча.Form.Форма.Form" id="718f931c-4cdc-4485-8be8-e73a06821492.0" configVersion="72ecca7a33e6cfbb68da0503dda8a8a9595717fe"/>
+		<Metadata name="DefinedType.Артикул" id="cc7965bb-fa07-4493-b9c4-d446a5afabdc" configVersion="9e9f420d349b17bb1437d4b6c62f25a03909f8a5"/>
+		<Metadata name="Document.УстановкаЦенНоменклатуры" id="d0432e0d-154c-45a9-adbf-2d1f4602866a" configVersion="f3414df744f838dc9ae46206374ea947a3036a9c"/>
+		<Metadata name="Language.Русский" id="de33a5b7-da37-4298-a7ec-bfbbb16435a2" configVersion="cf5308bf5c3d41cbff1ee00adec907345dd112c6"/>
+		<Metadata name="Subsystem.уст_ц_Подсистема1" id="93fe63e9-5a53-4319-a64f-0210f71b08fb" configVersion="28425f1e99061bbf9c380f219586414d8d570c77"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
