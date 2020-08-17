@@ -4,8 +4,27 @@
 		<Autofill>false</Autofill>
 	</AutoCommandBar>
 	<ChildItems>
+		<InputField name="ПриобретениеТоваровУслуг" id="6">
+			<DataPath>ПриобретениеТоваровУслуг</DataPath>
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Можно создать установку цен на основании приобретения</v8:content>
+				</v8:item>
+			</Title>
+			<TitleLocation>Top</TitleLocation>
+			<ContextMenu name="ПриобретениеТоваровУслугКонтекстноеМеню" id="7"/>
+			<ExtendedTooltip name="ПриобретениеТоваровУслугРасширеннаяПодсказка" id="8"/>
+		</InputField>
 		<InputField name="УстановкаЦенНоменклатуры" id="1">
 			<DataPath>УстановкаЦенНоменклатуры</DataPath>
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>...или просто пересчитать существующую установку цен</v8:content>
+				</v8:item>
+			</Title>
+			<TitleLocation>Top</TitleLocation>
 			<ContextMenu name="УстановкаЦенНоменклатурыКонтекстноеМеню" id="2"/>
 			<ExtendedTooltip name="УстановкаЦенНоменклатурыРасширеннаяПодсказка" id="3"/>
 		</InputField>
@@ -31,6 +50,17 @@
 			</Title>
 			<Type>
 				<v8:Type>cfg:DocumentRef.УстановкаЦенНоменклатуры</v8:Type>
+			</Type>
+		</Attribute>
+		<Attribute name="ПриобретениеТоваровУслуг" id="3">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Приобретение товаров услуг</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>cfg:DocumentRef.ПриобретениеТоваровУслуг</v8:Type>
 			</Type>
 		</Attribute>
 	</Attributes>

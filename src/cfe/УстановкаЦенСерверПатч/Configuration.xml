@@ -11,10 +11,6 @@
 				<xr:ObjectId>6e469a7f-354a-4d2d-ac0a-3e05d4497cc8</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
-				<xr:ClassId>e68182ea-4237-4383-967f-90c1e3370bc7</xr:ClassId>
-				<xr:ObjectId>58648dc2-73e7-4816-9c7d-8c66b6a90e00</xr:ObjectId>
-			</xr:ContainedObject>
-			<xr:ContainedObject>
 				<xr:ClassId>e3687481-0a87-462c-a166-9f34594f9bba</xr:ClassId>
 				<xr:ObjectId>e08223a3-0186-4376-b660-b7ef1978200b</xr:ObjectId>
 			</xr:ContainedObject>
@@ -25,6 +21,10 @@
 			<xr:ContainedObject>
 				<xr:ClassId>51f2d5d8-ea4d-4064-8892-82951750031e</xr:ClassId>
 				<xr:ObjectId>2d8e3a1d-18e6-4cea-a9bc-bb8560acdad9</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>e68182ea-4237-4383-967f-90c1e3370bc7</xr:ClassId>
+				<xr:ObjectId>58648dc2-73e7-4816-9c7d-8c66b6a90e00</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>fb282519-d103-4dd3-bc12-cb271d631dfc</xr:ClassId>
@@ -67,6 +67,7 @@
 			<CommonModule>уст_ц_УстановкаЦенСервер</CommonModule>
 			<DefinedType>Артикул</DefinedType>
 			<Document>УстановкаЦенНоменклатуры</Document>
+			<Document>ПриобретениеТоваровУслуг</Document>
 			<DataProcessor>уст_ц_ТестированиеПатча</DataProcessor>
 		</ChildObjects>
 	</Configuration>
